@@ -46,7 +46,7 @@
 
   <!-- Copyright -->
   <div class="text-center text-dark p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-    Made by Mihir:© 2020 Copyright:
+    Made by Mihir:© 2022 Copyright:
     <a class="text-dark" href="">MN Bank</a>
   </div>
   <!-- Copyright -->
